@@ -1,0 +1,26 @@
+_repo: An-Essay-on-the-Evils-of-Popular-Ignorance_8940
+creator:
+  author:
+    agent_name: Foster, John
+    birthdate: 1770
+    deathdate: 1843
+    gutenberg_agent_id: '2938'
+    url: http://www.gutenberg.org/2009/agents/2938
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LC'
+- !lcsh 'Great Britain -- Social conditions -- 19th century'
+- !lcsh 'Missions -- India'
+- !lcsh 'Literacy'
+- !lcsh 'Education'
+- !lcsh 'Religious education'
+title: An Essay on the Evils of Popular Ignorance
+url: http://www.gutenberg.org/ebooks/8940
